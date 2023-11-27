@@ -8,7 +8,7 @@ It is made with REACT in the frontend and Node+Express server in the backend
 2. Start the server by "npm start" command
 
 ### Starting frontend 
-1. In src/utils/constant.js change baseURL variable value to "http://localhost:<<PORT>>/api" change PORT according to on which backend server is running, default is 5122
+1. In src/utils/constant.js change baseURL variable value to "http://localhost:<PORT>/api" change PORT according to on which backend server is running, default is 5122
 2. Start frontend using "npm run dev" command
 
 Made by: Pratyush Srivastava
